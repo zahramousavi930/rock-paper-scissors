@@ -2,7 +2,7 @@
 
 This game plays between user and computer, in which each player simultaneously selects one of three shapes. These shapes are "rock", "paper", and "scissors". It has three possible outcomes: a draw, a win, or a loss. A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie.
 
-![Responsice Mockup](https://zahramousavi930.github.io/rock-paper-scissors/blob/main/assets/images/rock-paper-scissors-web-page.png)
+![Responsice Mockup](https://github.com/zahramousavi930/rock-paper-scissors/blob/main/assets/images/responsive.png)
 
 # Features
 

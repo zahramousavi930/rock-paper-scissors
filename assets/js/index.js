@@ -61,11 +61,11 @@ function playRound(playerSelection, computerSelection) {
   if (playerSelection === computerSelection) {
     return "Draw!";
   } else if (playerSelection == "rock" && computerSelection == "scissors") {
-    return "Player won!";
+    return "You won!";
   } else if (playerSelection == "paper" && computerSelection == "rock") {
-    return "Player won!";
+    return "You won!";
   } else if (playerSelection == "scissors" && computerSelection == "paper") {
-    return "Player won!";
+    return "You won!";
   } else if (playerSelection == "paper" && computerSelection == "scissors") {
     return "Computer won!";
   } else if (playerSelection == "scissors" && computerSelection == "rock") {
@@ -84,7 +84,7 @@ function displaySelection(player, selection, result) {
 }
 
 function scoreBoard(result) {
-  if (result === "Player won!") {
+  if (result === "You won!") {
     playerScore++;
   } else if (result === "Computer won!") {
     computerScore++;
@@ -96,7 +96,7 @@ function scoreBoard(result) {
 function endGame() {
   if (playerScore === 5 || computerScore === 5) {
     if (playerScore === 5) {
-      result.innerText = "Player is the Winner! Congratulations!";
+      result.innerText = "You are the Winner! Congratulations!";
     } else {
       result.innerText = "Computer is the Winner! You Lose!";
     }

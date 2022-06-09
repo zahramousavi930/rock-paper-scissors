@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  color: darkblue;
 }
 header,
 footer {
@@ -7,13 +8,20 @@ footer {
   color: white;
   padding: 20px 0;
 }
+.game-board {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  height: 250px;
+}
 .select-container {
   display: grid;
   justify-items: center;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 10px;
+  margin-bottom: 10px;
 }
-
 .select-icon {
   font-size: 4rem;
   font-weight: bolder;

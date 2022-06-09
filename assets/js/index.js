@@ -14,13 +14,14 @@ rock.addEventListener("click", (e) => {
   startFlow(rock.id);
 });
 paper.addEventListener("click", (e) => {
-  startFlow(rock.id);
+  startFlow(paper.id);
 });
 scissors.addEventListener("click", (e) => {
-  startFlow(rock.id);
+  startFlow(scissors.id);
 });
 
 function startFlow(playerSelection) {
+  console.log(playerSelection);
   const winner = selection(playerSelection);
   const resultMsg = winner.winner;
   const compMov = winner.compMove;

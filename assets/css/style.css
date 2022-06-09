@@ -31,3 +31,8 @@ footer {
 .select-icon:hover {
   color: goldenrod;
 }
+
+#computerSelect,
+#playerSelect {
+  font-size: 2rem;
+}

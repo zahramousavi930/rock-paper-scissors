@@ -44,7 +44,7 @@ This game plays between user and computer, in which each player simultaneously s
 - I confirmed that the game results are always correct
 - I confirmed that the header, instructions, options, results and footer text are all readable and easy to understand.
 
-![Responsice Mockup](https://zahramousavi930.github.io/rock-paper-scissors/blob/main/assets/images/lighthouse.png)
+![Responsice Mockup](https://github.com/zahramousavi930/rock-paper-scissors/blob/main/assets/images/lighthouse.png)
 
 - I confirmed this web page is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar
 

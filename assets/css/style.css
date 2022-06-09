@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+header,
+footer {
+  background-color: goldenrod;
+  color: white;
+  padding: 20px 0;
+}
+.select-container {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.select-icon {
+  font-size: 4rem;
+  font-weight: bolder;
+  cursor: pointer;
+  color: darkblue;
+}
+.select-icon:hover {
+  color: goldenrod;
+}

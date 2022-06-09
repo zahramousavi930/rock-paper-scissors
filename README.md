@@ -13,14 +13,14 @@ This game plays between user and computer, in which each player simultaneously s
   - The header shows the game name.
   - this header clearly tells the user what game they are playing.
 
-  ![Responsice Mockup](https://zahramousavi930.github.io/rock-paper-scissors/blob/main/assets/images/title.png)
+  ![Responsice Mockup](https://github.com/zahramousavi930/rock-paper-scissors/blob/main/assets/images/header.png)
 
 - The Game Options
 
   - The game options include a clear icons and each button has a title, It's visible for them when user hover with mouse on it.
   - In this section the user can click on buttons and make their choice and plays the game.
 
-  ![Responsice Mockup](https://zahramousavi930.github.io/rock-paper-scissors/blob/main/assets/images/game%20options.png)
+  ![Responsice Mockup](https://github.com/zahramousavi930/rock-paper-scissors/blob/main/assets/images/game_options.png)
 
 - The Game Results
 
@@ -30,13 +30,13 @@ This game plays between user and computer, in which each player simultaneously s
   - Socre show under the image on their side of the game board.
   - Each round has five selection and after 5 choice, game determines the final winner and then the game restart.
 
-  ![Responsice Mockup](https://zahramousavi930.github.io/rock-paper-scissors/blob/main/assets/images/result.png)
+  ![Responsice Mockup](https://github.com/zahramousavi930/rock-paper-scissors/blob/main/assets/images/result.png)
 
 - Footer
 
   - The footer section shows the rules of Rock Paper Scissors
 
-  ![Responsice Mockup](https://zahramousavi930.github.io/rock-paper-scissors/blob/main/assets/images/footer.png)
+  ![Responsice Mockup](https://github.com/zahramousavi930/rock-paper-scissors/blob/main/assets/images/footer.png)
 
   # Testing
 
@@ -67,8 +67,3 @@ The live link can be found here - https://zahramousavi930.github.io/rock-paper-s
 # Content
 
 - The text for the description of game takes from Wikipedia. [Wikipedia Article](https://en.wikipedia.org/wiki/Rock_paper_scissors)
-
-# Media
-
-- The photos used for the game boards that takes from pngfind, seekPng, toppng sites
-- the icons that used in the buttons are from font awesome icons 4.7
